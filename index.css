@@ -33,6 +33,7 @@ input {
 button {
   width: 100px;
   height: 40px;
+  cursor: pointer;
 }
 .restro-card {
   width: 200px;
